@@ -36,4 +36,5 @@ Adapter holds the data and send the data to adapter view, the view can takes the
 
 ![Screenshot_2020-03-01-15-35-07-47](https://user-images.githubusercontent.com/43209043/75623789-d223a580-5bd3-11ea-8eb9-ddfaf4d40590.jpg)
 
+![Screenshot_2020-03-01-22-09-34-37](https://user-images.githubusercontent.com/43209043/75629626-8be93900-5c09-11ea-85b2-2918fe240123.jpg)
 # All library dependencies are included in gradle file
