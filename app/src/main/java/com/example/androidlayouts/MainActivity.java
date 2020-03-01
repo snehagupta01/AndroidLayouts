@@ -38,4 +38,9 @@ public class MainActivity extends AppCompatActivity {
         Intent i=new Intent(this,listview.class);
         startActivity(i);
     }
+    public void opengridview(View view)
+    {
+        Intent i=new Intent(this,GridViewActivity.class);
+        startActivity(i);
+    }
 }

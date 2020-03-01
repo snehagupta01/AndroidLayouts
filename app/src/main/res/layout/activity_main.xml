@@ -55,6 +55,14 @@
             android:text="LIST VIEW"
             android:onClick="openlistview"
             ></Button>
+        <Button
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="80dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GRID VIEW"
+            android:onClick="opengridview"
+            ></Button>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
