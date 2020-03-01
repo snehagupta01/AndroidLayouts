@@ -23,4 +23,9 @@ public class MainActivity extends AppCompatActivity {
         Intent i=new Intent(this,relativelayout.class);
         startActivity(i);
     }
+    public void opentablelayout(View view)
+    {
+        Intent i=new Intent(this,tablelayout.class);
+        startActivity(i);
+    }
 }
