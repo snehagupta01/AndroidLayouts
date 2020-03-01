@@ -16,3 +16,9 @@ enables you to specify how child views are positioned relative to each other. Th
 
 ![Screenshot_2020-03-01-12-17-40-36](https://user-images.githubusercontent.com/43209043/75623735-2712ec00-5bd3-11ea-9cb9-66dd56f1c96e.jpg)
 
+ ## Android Absolute layout
+ 
+ ### lets you specify exact locations (x/y coordinates) of its children. Absolute layouts are less flexible and harder to maintain
+ 
+ ![Screenshot_2020-03-01-15-38-40-88](https://user-images.githubusercontent.com/43209043/75623768-7a853a00-5bd3-11ea-9113-d1822d47031e.jpg)
+
