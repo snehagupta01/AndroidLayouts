@@ -23,6 +23,14 @@
             android:text="LINEAR LAYOUT"
             android:onClick="openlinearlayout"
             ></Button>
+        <Button
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="80dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RELATIVE LAYOUT"
+            android:onClick="openrelativelayout"
+            ></Button>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
