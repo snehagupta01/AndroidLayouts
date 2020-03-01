@@ -39,6 +39,14 @@
             android:text="TABLE LAYOUT"
             android:onClick="opentablelayout"
             ></Button>
+        <Button
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="80dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ABSOLUTE LAYOUT"
+            android:onClick="openabsolutelayout"
+            ></Button>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
