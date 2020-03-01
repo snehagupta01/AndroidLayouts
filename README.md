@@ -29,3 +29,10 @@ The list items are automatically inserted to the list using an Adapter that pull
 Adapter holds the data and send the data to adapter view, the view can takes the data from adapter view and shows the data on different views like as spinner, list view, grid view etc.
 
 ![Screenshot_2020-03-01-15-35-03-49](https://user-images.githubusercontent.com/43209043/75623774-a9031500-5bd3-11ea-821f-0c4c948b2e8d.jpg)
+
+ ## Android GridView 
+ it shows items in two-dimensional scrolling grid (rows & columns) 
+
+
+![Screenshot_2020-03-01-15-35-07-47](https://user-images.githubusercontent.com/43209043/75623789-d223a580-5bd3-11ea-8eb9-ddfaf4d40590.jpg)
+
