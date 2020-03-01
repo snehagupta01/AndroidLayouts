@@ -22,3 +22,10 @@ enables you to specify how child views are positioned relative to each other. Th
  
  ![Screenshot_2020-03-01-15-38-40-88](https://user-images.githubusercontent.com/43209043/75623768-7a853a00-5bd3-11ea-9113-d1822d47031e.jpg)
 
+ ## Android ListView : 
+ 
+ It is a view which groups several items and display them in vertical scrollable list
+The list items are automatically inserted to the list using an Adapter that pulls content from a source such as an array or database.
+Adapter holds the data and send the data to adapter view, the view can takes the data from adapter view and shows the data on different views like as spinner, list view, grid view etc.
+
+![Screenshot_2020-03-01-15-35-03-49](https://user-images.githubusercontent.com/43209043/75623774-a9031500-5bd3-11ea-821f-0c4c948b2e8d.jpg)
