@@ -33,4 +33,9 @@ public class MainActivity extends AppCompatActivity {
         Intent i=new Intent(this,absolutelayout.class);
         startActivity(i);
     }
+    public void openlistview(View view)
+    {
+        Intent i=new Intent(this,listview.class);
+        startActivity(i);
+    }
 }
